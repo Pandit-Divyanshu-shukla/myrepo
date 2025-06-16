@@ -1,0 +1,7 @@
+1. git init
+2. Create and Add README.md file
+3. git commit -a "Initial COMMIT"
+4. git remote add origin https://github.com/Pandit-Divyanshu-shukla/myrepo.git
+5.  git config --global user.name "thenameispandit"
+6.  git config --global user.email "divyanshushukla1947@gmail.com"
+7. git push -u origin main
